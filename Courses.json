@@ -51,26 +51,6 @@
       ],
       "duration": "2 Months",
       "level": "Intermediate"
-    },
-    {
-      "id": 4,
-      "title": "Python Full Stack Development",
-      "icon": "python.png",
-      "description": "Master end-to-end web development with Python, from frontend to backend and database management",
-      "features": [
-        "Python Programming Fundamentals",
-        "Django Web Framework",
-        "Django REST Framework (DRF)",
-        "Flask Microframework",
-        "Database Design with PostgreSQL",
-        "Frontend Integration (HTML/CSS/JavaScript)",
-        "RESTful API Development",
-        "Authentication & Authorization",
-        "Deployment & DevOps",
-        "Real-world Project Implementation"
-      ],
-      "duration": "5 Months",
-      "level": "Advanced"
     }
   ]
 }
