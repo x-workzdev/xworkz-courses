@@ -1,0 +1,56 @@
+{
+  "Courses": [
+    {
+      "id": 1,
+      "title": "Java Enterprise Application Development",
+      "icon": "java.png",
+      "description": "Master enterprise-level Java development with comprehensive training in advanced concepts and frameworks",
+      "features": [
+        "Object-Oriented Programming (OOPs)",
+        "Advanced Java (JDBC, Servlets, JSP)",
+        "Java Persistence API (JPA) & Hibernate",
+        "Spring Framework Core",
+        "Spring MVC Architecture",
+        "Spring Boot Microservices",
+        "RESTful Web Services",
+        "Project Deployment"
+      ],
+      "duration": "6 Months",
+      "level": "Advanced"
+    },
+    {
+      "id": 2,
+      "title": "Web Technologies",
+      "icon": "html.png",
+      "description": "Build responsive and interactive web applications with modern frontend technologies",
+      "features": [
+        "HTML5 & Semantic Web",
+        "CSS3 & Flexbox/Grid Layouts",
+        "JavaScript ES6+ Features",
+        "DOM Manipulation",
+        "Bootstrap Framework",
+        "Responsive Web Design",
+        "Frontend Project Implementation"
+      ],
+      "duration": "3 Months",
+      "level": "Intermediate"
+    },
+    {
+      "id": 3,
+      "title": "MySQL Database Management",
+      "icon": "mysql.png",
+      "description": "Learn database design, implementation and management with MySQL",
+      "features": [
+        "Database Design Principles",
+        "SQL Queries & Joins",
+        "Stored Procedures & Functions",
+        "Database Normalization",
+        "Transaction Management",
+        "Performance Optimization",
+        "Database Security"
+      ],
+      "duration": "2 Months",
+      "level": "Intermediate"
+    }
+  ]
+}
