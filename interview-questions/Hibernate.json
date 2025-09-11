@@ -1,0 +1,64 @@
+{
+  "Topic": [
+    {
+      "name": "Hibernate Basics",
+      "Questions": [
+        {"question": "What is Hibernate?"},
+        {"question": "What are the advantages of Hibernate over JDBC?"},
+        {"question": "What is ORM (Object-Relational Mapping)?"},
+        {"question": "What are the core interfaces of Hibernate?"},
+        {"question": "What is Hibernate Configuration file?"},
+        {"question": "What is Hibernate Mapping file?"},
+        {"question": "What is Hibernate Session?"},
+        {"question": "What is Hibernate SessionFactory?"},
+        {"question": "What is the difference between Session and SessionFactory?"},
+        {"question": "What are the different states of an object in Hibernate?"}
+      ]
+    },
+    {
+      "name": "Hibernate Mapping",
+      "Questions": [
+        {"question": "What is Hibernate Mapping?"},
+        {"question": "What are the different types of mapping in Hibernate?"},
+        {"question": "What is One-to-One mapping in Hibernate?"},
+        {"question": "What is One-to-Many mapping in Hibernate?"},
+        {"question": "What is Many-to-One mapping in Hibernate?"},
+        {"question": "What is Many-to-Many mapping in Hibernate?"},
+        {"question": "What is inheritance mapping in Hibernate?"},
+        {"question": "What are the different strategies for inheritance mapping?"},
+        {"question": "What is component mapping in Hibernate?"},
+        {"question": "What is association mapping in Hibernate?"}
+      ]
+    },
+    {
+      "name": "Hibernate Query Language",
+      "Questions": [
+        {"question": "What is HQL (Hibernate Query Language)?"},
+        {"question": "What is the difference between HQL and SQL?"},
+        {"question": "What are named queries in Hibernate?"},
+        {"question": "What is Criteria API in Hibernate?"},
+        {"question": "What is Native SQL in Hibernate?"},
+        {"question": "What is the difference between get() and load() methods?"},
+        {"question": "What is the difference between save() and persist() methods?"},
+        {"question": "What is the difference between update() and merge() methods?"},
+        {"question": "What is the difference between save() and saveOrUpdate() methods?"},
+        {"question": "What is caching in Hibernate?"}
+      ]
+    },
+    {
+      "name": "Advanced Hibernate",
+      "Questions": [
+        {"question": "What is transaction management in Hibernate?"},
+        {"question": "What is connection pooling in Hibernate?"},
+        {"question": "What is lazy loading in Hibernate?"},
+        {"question": "What is eager loading in Hibernate?"},
+        {"question": "What is N+1 select problem in Hibernate?"},
+        {"question": "How to solve N+1 select problem in Hibernate?"},
+        {"question": "What is batch processing in Hibernate?"},
+        {"question": "What is interceptors in Hibernate?"},
+        {"question": "What is Hibernate Validator?"},
+        {"question": "What are the best practices in Hibernate?"}
+      ]
+    }
+  ]
+}

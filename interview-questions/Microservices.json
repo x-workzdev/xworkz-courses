@@ -1,0 +1,64 @@
+{
+  "Topic": [
+    {
+      "name": "Microservices Basics",
+      "Questions": [
+        {"question": "What are microservices?"},
+        {"question": "What are the advantages of microservices architecture?"},
+        {"question": "What are the disadvantages of microservices architecture?"},
+        {"question": "What is the difference between monolithic and microservices architecture?"},
+        {"question": "What are the principles of microservices?"},
+        {"question": "What is bounded context in microservices?"},
+        {"question": "What is domain-driven design in microservices?"},
+        {"question": "What are the characteristics of a well-designed microservice?"},
+        {"question": "What is the single responsibility principle in microservices?"},
+        {"question": "What is the difference between SOA and microservices?"}
+      ]
+    },
+    {
+      "name": "Microservices Communication",
+      "Questions": [
+        {"question": "What are the different ways microservices can communicate with each other?"},
+        {"question": "What is synchronous communication in microservices?"},
+        {"question": "What is asynchronous communication in microservices?"},
+        {"question": "What is RESTful communication in microservices?"},
+        {"question": "What is messaging in microservices?"},
+        {"question": "What is event-driven architecture in microservices?"},
+        {"question": "What is API Gateway in microservices?"},
+        {"question": "What is service discovery in microservices?"},
+        {"question": "What is client-side service discovery?"},
+        {"question": "What is server-side service discovery?"}
+      ]
+    },
+    {
+      "name": "Microservices Patterns",
+      "Questions": [
+        {"question": "What are the common microservices patterns?"},
+        {"question": "What is Circuit Breaker pattern?"},
+        {"question": "What is API Gateway pattern?"},
+        {"question": "What is Service Registry pattern?"},
+        {"question": "What is Configuration Server pattern?"},
+        {"question": "What is Distributed Tracing pattern?"},
+        {"question": "What is Event Sourcing pattern?"},
+        {"question": "What is CQRS pattern?"},
+        {"question": "What is Bulkhead pattern?"},
+        {"question": "What is Sidecar pattern?"}
+      ]
+    },
+    {
+      "name": "Spring Cloud Microservices",
+      "Questions": [
+        {"question": "What is Spring Cloud?"},
+        {"question": "What are the main components of Spring Cloud?"},
+        {"question": "What is Spring Cloud Config?"},
+        {"question": "What is Eureka in Spring Cloud?"},
+        {"question": "What is Ribbon in Spring Cloud?"},
+        {"question": "What is Feign in Spring Cloud?"},
+        {"question": "What is Hystrix in Spring Cloud?"},
+        {"question": "What is Zuul in Spring Cloud?"},
+        {"question": "What is Sleuth in Spring Cloud?"},
+        {"question": "What is Zipkin in Spring Cloud?"}
+      ]
+    }
+  ]
+}

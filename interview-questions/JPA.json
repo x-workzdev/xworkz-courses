@@ -1,0 +1,124 @@
+{
+  "Topic": [
+    {
+      "name": "JPA Basics",
+      "Questions": [
+        {"question": "What is JPA (Java Persistence API)?"},
+        {"question": "What are the main features of JPA?"},
+        {"question": "What is the difference between JPA and Hibernate?"},
+        {"question": "What is ORM (Object-Relational Mapping)?"},
+        {"question": "What are the advantages of using JPA?"},
+        {"question": "What are the main components of JPA?"},
+        {"question": "What is an Entity in JPA?"},
+        {"question": "What are the requirements for a Java class to be an entity?"},
+        {"question": "What is the @Entity annotation?"},
+        {"question": "What is the @Table annotation?"}
+      ]
+    },
+    {
+      "name": "JPA Annotations",
+      "Questions": [
+        {"question": "What is the @Id annotation?"},
+        {"question": "What is the @GeneratedValue annotation?"},
+        {"question": "What are the different generation strategies in @GeneratedValue?"},
+        {"question": "What is the @Column annotation?"},
+        {"question": "What is the @Transient annotation?"},
+        {"question": "What is the @Temporal annotation?"},
+        {"question": "What is the @Enumerated annotation?"},
+        {"question": "What is the @Lob annotation?"},
+        {"question": "What is the @Embedded annotation?"},
+        {"question": "What is the @Embeddable annotation?"}
+      ]
+    },
+    {
+      "name": "JPA Entity Relationships",
+      "Questions": [
+        {"question": "What are the different types of entity relationships in JPA?"},
+        {"question": "What is @OneToOne relationship?"},
+        {"question": "What is @OneToMany relationship?"},
+        {"question": "What is @ManyToOne relationship?"},
+        {"question": "What is @ManyToMany relationship?"},
+        {"question": "What is the mappedBy attribute?"},
+        {"question": "What is the difference between unidirectional and bidirectional relationships?"},
+        {"question": "What is cascading in JPA?"},
+        {"question": "What are the different cascade types?"},
+        {"question": "What is fetch strategy in JPA?"}
+      ]
+    },
+    {
+      "name": "JPA Query Language",
+      "Questions": [
+        {"question": "What is JPQL (Java Persistence Query Language)?"},
+        {"question": "What is the difference between JPQL and SQL?"},
+        {"question": "What are named queries in JPA?"},
+        {"question": "What is the @NamedQuery annotation?"},
+        {"question": "What is the @NamedNativeQuery annotation?"},
+        {"question": "What is Criteria API in JPA?"},
+        {"question": "What are the advantages of Criteria API?"},
+        {"question": "What is the difference between JPQL and Criteria API?"},
+        {"question": "What are native SQL queries in JPA?"},
+        {"question": "What is the EntityManager in JPA?"}
+      ]
+    },
+    {
+      "name": "JPA Entity Manager",
+      "Questions": [
+        {"question": "What is the role of EntityManager in JPA?"},
+        {"question": "What is the difference between EntityManager and EntityManagerFactory?"},
+        {"question": "What is persistence context?"},
+        {"question": "What are the different states of an entity?"},
+        {"question": "What is the difference between persist() and merge()?"},
+        {"question": "What is the difference between find() and getReference()?"},
+        {"question": "What is the difference between remove() and detach()?"},
+        {"question": "What is flush() operation?"},
+        {"question": "What is clear() operation?"},
+        {"question": "What is the difference between FlushMode.AUTO and FlushMode.COMMIT?"}
+      ]
+    },
+    {
+      "name": "Advanced JPA Concepts",
+      "Questions": [
+        {"question": "What is inheritance mapping in JPA?"},
+        {"question": "What are the different inheritance strategies?"},
+        {"question": "What is the difference between SINGLE_TABLE, JOINED, and TABLE_PER_CLASS strategies?"},
+        {"question": "What is embedded objects in JPA?"},
+        {"question": "What is compound primary keys in JPA?"},
+        {"question": "What is the @IdClass annotation?"},
+        {"question": "What is the @EmbeddedId annotation?"},
+        {"question": "What is optimistic locking in JPA?"},
+        {"question": "What is the @Version annotation?"},
+        {"question": "What is pessimistic locking in JPA?"}
+      ]
+    },
+    {
+      "name": "JPA Performance and Best Practices",
+      "Questions": [
+        {"question": "What is the N+1 select problem in JPA?"},
+        {"question": "How to solve the N+1 select problem?"},
+        {"question": "What is eager loading vs lazy loading?"},
+        {"question": "What is the @Fetch annotation?"},
+        {"question": "What is batch processing in JPA?"},
+        {"question": "What is caching in JPA?"},
+        {"question": "What are the different levels of caching?"},
+        {"question": "What is the difference between first-level and second-level cache?"},
+        {"question": "What are the best practices for JPA performance?"},
+        {"question": "How to handle transactions in JPA?"}
+      ]
+    },
+    {
+      "name": "Spring Data JPA",
+      "Questions": [
+        {"question": "What is Spring Data JPA?"},
+        {"question": "What are the advantages of Spring Data JPA over plain JPA?"},
+        {"question": "What is the CrudRepository interface?"},
+        {"question": "What is the JpaRepository interface?"},
+        {"question": "What is the PagingAndSortingRepository interface?"},
+        {"question": "How to create custom queries in Spring Data JPA?"},
+        {"question": "What is the @Query annotation?"},
+        {"question": "What are query methods in Spring Data JPA?"},
+        {"question": "What is the difference between @Modifying and @Query annotations?"},
+        {"question": "What is projection in Spring Data JPA?"}
+      ]
+    }
+  ]
+}

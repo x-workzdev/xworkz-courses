@@ -1,0 +1,94 @@
+{
+  "Topic": [
+    {
+      "name": "Servlets",
+      "Questions": [
+        {"question": "What is a Servlet?"},
+        {"question": "What is the Servlet lifecycle?"},
+        {"question": "What is the difference between ServletConfig and ServletContext?"},
+        {"question": "What is the difference between doGet() and doPost() methods?"},
+        {"question": "What are servlet filters?"},
+        {"question": "What are servlet listeners?"},
+        {"question": "What is session tracking in servlets?"},
+        {"question": "What are cookies and sessions in servlets?"},
+        {"question": "What is URL rewriting?"},
+        {"question": "What is the difference between forward() and sendRedirect()?"}
+      ]
+    },
+    {
+      "name": "JSP (Java Server Pages)",
+      "Questions": [
+        {"question": "What is JSP?"},
+        {"question": "What are the advantages of JSP over servlets?"},
+        {"question": "What are JSP lifecycle phases?"},
+        {"question": "What are JSP implicit objects?"},
+        {"question": "What are JSP directives?"},
+        {"question": "What is the difference between include directive and include action?"},
+        {"question": "What are JSP standard actions?"},
+        {"question": "What are JSP custom tags?"},
+        {"question": "What is Expression Language (EL) in JSP?"},
+        {"question": "What are JSTL tags?"}
+      ]
+    },
+    {
+      "name": "JDBC (Java Database Connectivity)",
+      "Questions": [
+        {"question": "What is JDBC?"},
+        {"question": "What are the main components of JDBC?"},
+        {"question": "What are the different types of JDBC drivers?"},
+        {"question": "What are the steps to connect to a database using JDBC?"},
+        {"question": "What is the difference between Statement and PreparedStatement?"},
+        {"question": "What is CallableStatement in JDBC?"},
+        {"question": "What is connection pooling in JDBC?"},
+        {"question": "What is JDBC batch processing?"},
+        {"question": "What is transaction management in JDBC?"},
+        {"question": "What are the common JDBC exceptions?"}
+      ]
+    },
+    {
+      "name": "Web Services",
+      "Questions": [
+        {"question": "What are web services?"},
+        {"question": "What is the difference between SOAP and REST web services?"},
+        {"question": "What is SOAP web service?"},
+        {"question": "What is RESTful web service?"},
+        {"question": "What are the HTTP methods in REST?"},
+        {"question": "What is JAX-WS?"},
+        {"question": "What is JAX-RS?"},
+        {"question": "What are the annotations used in JAX-RS?"},
+        {"question": "What is WSDL?"},
+        {"question": "What is UDDI?"}
+      ]
+    },
+    {
+      "name": "Design Patterns",
+      "Questions": [
+        {"question": "What are design patterns?"},
+        {"question": "What are the types of design patterns?"},
+        {"question": "What is the Singleton design pattern?"},
+        {"question": "What is the Factory design pattern?"},
+        {"question": "What is the MVC design pattern?"},
+        {"question": "What is the DAO design pattern?"},
+        {"question": "What is the DTO design pattern?"},
+        {"question": "What is the Front Controller design pattern?"},
+        {"question": "What is the Business Delegate pattern?"},
+        {"question": "What is the Service Locator pattern?"}
+      ]
+    },
+    {
+      "name": "Advanced Concepts",
+      "Questions": [
+        {"question": "What is reflection in Java?"},
+        {"question": "What is serialization and deserialization in Java?"},
+        {"question": "What is garbage collection in Java?"},
+        {"question": "What is Java Memory Model?"},
+        {"question": "What are Java generics?"},
+        {"question": "What are Java annotations?"},
+        {"question": "What is Java NIO?"},
+        {"question": "What is Java Logging API?"},
+        {"question": "What is internationalization and localization in Java?"},
+        {"question": "What are Java security features?"}
+      ]
+    }
+  ]
+}

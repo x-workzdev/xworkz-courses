@@ -1,0 +1,92 @@
+{
+  "Topic": [
+    {
+      "name": "Java Basics",
+      "Questions": [
+        {"question": "What are the main features of Java?"},
+        {"question": "Explain the difference between JDK, JRE, and JVM."},
+        {"question": "What is the difference between == and .equals() method?"},
+        {"question": "What are wrapper classes in Java?"},
+        {"question": "Explain autoboxing and unboxing in Java."},
+        {"question": "What are the different types of variables in Java?"},
+        {"question": "What is the 'final' keyword in Java?"},
+        {"question": "What are Java annotations?"},
+        {"question": "Explain the 'this' keyword in Java."},
+        {"question": "What are the different data types in Java?"}
+      ]
+    },
+    {
+      "name": "OOPs Concepts", 
+      "Questions": [
+        {"question": "What are the four main principles of OOP?"},
+        {"question": "Explain inheritance in Java with examples."},
+        {"question": "What is polymorphism? Explain compile-time and runtime polymorphism."},
+        {"question": "What is abstraction and how is it achieved in Java?"},
+        {"question": "What is encapsulation and why is it important?"},
+        {"question": "What is the difference between abstract class and interface?"},
+        {"question": "What is method overloading and method overriding?"},
+        {"question": "What is the 'super' keyword in Java?"},
+        {"question": "What are constructors in Java?"},
+        {"question": "What is constructor chaining?"}
+      ]
+    },
+    {
+      "name": "Exception Handling",
+      "Questions": [
+        {"question": "What is exception handling in Java?"},
+        {"question": "What is the difference between checked and unchecked exceptions?"},
+        {"question": "Explain the try-catch-finally block."},
+        {"question": "What is the throw and throws keyword?"},
+        {"question": "What is a custom exception?"},
+        {"question": "What is the difference between final, finally, and finalize?"},
+        {"question": "What is exception propagation?"},
+        {"question": "What are the best practices for exception handling?"}
+      ]
+    },
+    {
+      "name": "Collections Framework",
+      "Questions": [
+        {"question": "What is the Java Collections Framework?"},
+        {"question": "Explain the hierarchy of the Collection framework."},
+        {"question": "What is the difference between List, Set, and Map?"},
+        {"question": "What is the difference between ArrayList and LinkedList?"},
+        {"question": "What is the difference between HashSet and TreeSet?"},
+        {"question": "What is the difference between HashMap and HashTable?"},
+        {"question": "What is the difference between HashMap and ConcurrentHashMap?"},
+        {"question": "What is the fail-fast iterator?"},
+        {"question": "How does HashMap work internally in Java?"},
+        {"question": "What are Comparable and Comparator interfaces?"}
+      ]
+    },
+    {
+      "name": "Multithreading",
+      "Questions": [
+        {"question": "What is multithreading in Java?"},
+        {"question": "What are the different ways to create a thread in Java?"},
+        {"question": "What is the difference between extends Thread and implements Runnable?"},
+        {"question": "What is synchronization in Java?"},
+        {"question": "What is the difference between wait() and sleep() methods?"},
+        {"question": "What is a deadlock? How can it be avoided?"},
+        {"question": "What is the volatile keyword in Java?"},
+        {"question": "What is the ThreadPool in Java?"},
+        {"question": "What is the Executor framework in Java?"},
+        {"question": "What are the thread states in Java?"}
+      ]
+    },
+    {
+      "name": "Java 8 Features",
+      "Questions": [
+        {"question": "What are the main features introduced in Java 8?"},
+        {"question": "What are lambda expressions in Java?"},
+        {"question": "What is the functional interface in Java?"},
+        {"question": "What are method references in Java?"},
+        {"question": "What are default methods in interfaces?"},
+        {"question": "What are Stream API in Java?"},
+        {"question": "What is the Optional class in Java?"},
+        {"question": "What is the difference between intermediate and terminal operations in Stream?"},
+        {"question": "What are collectors in Java Stream API?"},
+        {"question": "What is the new Date and Time API in Java 8?"}
+      ]
+    }
+  ]
+}

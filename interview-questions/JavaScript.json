@@ -1,0 +1,64 @@
+{
+  "Topic": [
+    {
+      "name": "JavaScript Basics",
+      "Questions": [
+        {"question": "What is JavaScript?"},
+        {"question": "What are the features of JavaScript?"},
+        {"question": "What are the data types in JavaScript?"},
+        {"question": "What is the difference between let, var, and const?"},
+        {"question": "What is hoisting in JavaScript?"},
+        {"question": "What is the difference between == and === operators?"},
+        {"question": "What are JavaScript operators?"},
+        {"question": "What are conditional statements in JavaScript?"},
+        {"question": "What are loops in JavaScript?"},
+        {"question": "What are functions in JavaScript?"}
+      ]
+    },
+    {
+      "name": "JavaScript Advanced",
+      "Questions": [
+        {"question": "What is closure in JavaScript?"},
+        {"question": "What is scope in JavaScript?"},
+        {"question": "What is prototype in JavaScript?"},
+        {"question": "What is prototype chain in JavaScript?"},
+        {"question": "What is callback in JavaScript?"},
+        {"question": "What is promise in JavaScript?"},
+        {"question": "What is async/await in JavaScript?"},
+        {"question": "What is event loop in JavaScript?"},
+        {"question": "What is callback hell?"},
+        {"question": "What is currying in JavaScript?"}
+      ]
+    },
+    {
+      "name": "DOM Manipulation",
+      "Questions": [
+        {"question": "What is DOM?"},
+        {"question": "What are the different ways to select elements in DOM?"},
+        {"question": "What are the different ways to create elements in DOM?"},
+        {"question": "What are the different ways to modify elements in DOM?"},
+        {"question": "What are events in JavaScript?"},
+        {"question": "What is event bubbling?"},
+        {"question": "What is event capturing?"},
+        {"question": "What is event delegation?"},
+        {"question": "What is the difference between innerHTML and innerText?"},
+        {"question": "What is the difference between append() and appendChild()?"}
+      ]
+    },
+    {
+      "name": "ES6 Features",
+      "Questions": [
+        {"question": "What are the new features in ES6?"},
+        {"question": "What are arrow functions?"},
+        {"question": "What are template literals?"},
+        {"question": "What are destructuring assignments?"},
+        {"question": "What are default parameters?"},
+        {"question": "What are rest parameters?"},
+        {"question": "What are spread operators?"},
+        {"question": "What are classes in ES6?"},
+        {"question": "What are modules in ES6?"},
+        {"question": "What are generators in ES6?"}
+      ]
+    }
+  ]
+}

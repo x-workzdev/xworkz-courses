@@ -1,0 +1,64 @@
+{
+  "Topic": [
+    {
+      "name": "React Basics",
+      "Questions": [
+        {"question": "What is React?"},
+        {"question": "What are the features of React?"},
+        {"question": "What is JSX?"},
+        {"question": "What is the difference between Element and Component?"},
+        {"question": "What are components in React?"},
+        {"question": "What are functional components?"},
+        {"question": "What are class components?"},
+        {"question": "What is the difference between functional and class components?"},
+        {"question": "What are props in React?"},
+        {"question": "What is state in React?"}
+      ]
+    },
+    {
+      "name": "React Advanced",
+      "Questions": [
+        {"question": "What is virtual DOM?"},
+        {"question": "How virtual DOM works?"},
+        {"question": "What is reconciliation in React?"},
+        {"question": "What are keys in React?"},
+        {"question": "What are refs in React?"},
+        {"question": "What are fragments in React?"},
+        {"question": "What are portals in React?"},
+        {"question": "What are error boundaries in React?"},
+        {"question": "What are higher-order components?"},
+        {"question": "What are pure components?"}
+      ]
+    },
+    {
+      "name": "React Hooks",
+      "Questions": [
+        {"question": "What are hooks in React?"},
+        {"question": "What is useState hook?"},
+        {"question": "What is useEffect hook?"},
+        {"question": "What is useContext hook?"},
+        {"question": "What is useReducer hook?"},
+        {"question": "What is useCallback hook?"},
+        {"question": "What is useMemo hook?"},
+        {"question": "What is useRef hook?"},
+        {"question": "What is custom hook?"},
+        {"question": "What are the rules of hooks?"}
+      ]
+    },
+    {
+      "name": "React Router & State Management",
+      "Questions": [
+        {"question": "What is React Router?"},
+        {"question": "What is Redux?"},
+        {"question": "What are the principles of Redux?"},
+        {"question": "What are actions in Redux?"},
+        {"question": "What are reducers in Redux?"},
+        {"question": "What is store in Redux?"},
+        {"question": "What is middleware in Redux?"},
+        {"question": "What is Redux Thunk?"},
+        {"question": "What is Redux Saga?"},
+        {"question": "What is Context API?"}
+      ]
+    }
+  ]
+}

@@ -1,0 +1,62 @@
+{
+  "Topic": [
+    {
+      "name": "MySQL Basics",
+      "Questions": [
+        {"question": "What is MySQL and what are its key features?"},
+        {"question": "What are the different types of database management systems?"},
+        {"question": "What are the different storage engines in MySQL?"},
+        {"question": "What is the difference between MyISAM and InnoDB?"},
+        {"question": "How do you create a database in MySQL?"},
+        {"question": "What are the different data types in MySQL?"},
+        {"question": "How do you create a table in MySQL?"},
+        {"question": "What are the different constraints in MySQL?"}
+      ]
+    },
+    {
+      "name": "SQL Queries",
+      "Questions": [
+        {"question": "What is the difference between DDL, DML, and DCL commands?"},
+        {"question": "What is the SELECT statement and how is it used?"},
+        {"question": "What is the WHERE clause in MySQL?"},
+        {"question": "What are the different types of JOINs in MySQL?"},
+        {"question": "What is the difference between INNER JOIN and OUTER JOIN?"},
+        {"question": "What is the GROUP BY clause?"},
+        {"question": "What is the HAVING clause?"},
+        {"question": "What is the difference between WHERE and HAVING?"},
+        {"question": "What are aggregate functions in MySQL?"},
+        {"question": "What are string functions in MySQL?"}
+      ]
+    },
+    {
+      "name": "Advanced MySQL",
+      "Questions": [
+        {"question": "What are indexes in MySQL?"},
+        {"question": "What are the different types of indexes in MySQL?"},
+        {"question": "What is a primary key and foreign key?"},
+        {"question": "What is normalization and what are its different forms?"},
+        {"question": "What is denormalization and when is it used?"},
+        {"question": "What are stored procedures in MySQL?"},
+        {"question": "What are triggers in MySQL?"},
+        {"question": "What are views in MySQL?"},
+        {"question": "What is a cursor in MySQL?"},
+        {"question": "What is transaction management in MySQL?"}
+      ]
+    },
+    {
+      "name": "Performance Optimization",
+      "Questions": [
+        {"question": "How do you optimize MySQL queries?"},
+        {"question": "What is query execution plan?"},
+        {"question": "How do you use EXPLAIN in MySQL?"},
+        {"question": "What are the best practices for database indexing?"},
+        {"question": "How do you handle slow queries in MySQL?"},
+        {"question": "What is database partitioning?"},
+        {"question": "What is database replication in MySQL?"},
+        {"question": "What is database sharding?"},
+        {"question": "How do you backup and restore MySQL databases?"},
+        {"question": "What are the security best practices in MySQL?"}
+      ]
+    }
+  ]
+}

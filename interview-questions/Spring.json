@@ -1,0 +1,94 @@
+{
+  "Topic": [
+    {
+      "name": "Spring Framework Basics",
+      "Questions": [
+        {"question": "What is the Spring Framework?"},
+        {"question": "What are the key features of the Spring Framework?"},
+        {"question": "What are the different modules in the Spring Framework?"},
+        {"question": "What is dependency injection?"},
+        {"question": "What is inversion of control (IoC)?"},
+        {"question": "What are the different types of dependency injection?"},
+        {"question": "What is the Spring IoC container?"},
+        {"question": "What is the difference between BeanFactory and ApplicationContext?"},
+        {"question": "What are Spring beans?"},
+        {"question": "What is the Spring Bean lifecycle?"}
+      ]
+    },
+    {
+      "name": "Spring Core",
+      "Questions": [
+        {"question": "What are the different ways to configure Spring application?"},
+        {"question": "What is annotation-based configuration?"},
+        {"question": "What is XML-based configuration?"},
+        {"question": "What are the different bean scopes in Spring?"},
+        {"question": "What is autowiring in Spring?"},
+        {"question": "What are the different autowiring modes?"},
+        {"question": "What is the @Autowired annotation?"},
+        {"question": "What is the @Qualifier annotation?"},
+        {"question": "What is the @Component annotation?"},
+        {"question": "What are stereotype annotations in Spring?"}
+      ]
+    },
+    {
+      "name": "Spring MVC",
+      "Questions": [
+        {"question": "What is Spring MVC?"},
+        {"question": "Explain the Spring MVC workflow."},
+        {"question": "What is the DispatcherServlet in Spring MVC?"},
+        {"question": "What is the @Controller annotation?"},
+        {"question": "What is the @RequestMapping annotation?"},
+        {"question": "What is the difference between @Controller and @RestController?"},
+        {"question": "How do you handle exceptions in Spring MVC?"},
+        {"question": "What is ViewResolver in Spring MVC?"},
+        {"question": "How do you handle form submission in Spring MVC?"},
+        {"question": "What is Spring MVC Interceptor?"}
+      ]
+    },
+    {
+      "name": "Spring Boot",
+      "Questions": [
+        {"question": "What is Spring Boot?"},
+        {"question": "What are the advantages of Spring Boot over Spring?"},
+        {"question": "What is auto-configuration in Spring Boot?"},
+        {"question": "What is Spring Boot Starter?"},
+        {"question": "How do you create a Spring Boot application?"},
+        {"question": "What is the Spring Boot Actuator?"},
+        {"question": "How do you configure application properties in Spring Boot?"},
+        {"question": "What are Spring Boot annotations?"},
+        {"question": "How do you deploy a Spring Boot application?"},
+        {"question": "What is Spring Boot DevTools?"}
+      ]
+    },
+    {
+      "name": "Spring Data JPA",
+      "Questions": [
+        {"question": "What is Spring Data JPA?"},
+        {"question": "What is the difference between JPA and Spring Data JPA?"},
+        {"question": "What is the CrudRepository interface?"},
+        {"question": "What is the JpaRepository interface?"},
+        {"question": "How do you create custom queries in Spring Data JPA?"},
+        {"question": "What is the @Query annotation?"},
+        {"question": "What is pagination and sorting in Spring Data JPA?"},
+        {"question": "What is entity mapping in JPA?"},
+        {"question": "What are the relationship mappings in JPA?"},
+        {"question": "What is the difference between Hibernate and JPA?"}
+      ]
+    },
+    {
+      "name": "Spring Security",
+      "Questions": [
+        {"question": "What is Spring Security?"},
+        {"question": "How do you secure a Spring Boot application?"},
+        {"question": "What is authentication and authorization?"},
+        {"question": "What is the basic authentication in Spring Security?"},
+        {"question": "What is JWT and how is it used in Spring Security?"},
+        {"question": "What is OAuth2 and how is it implemented in Spring?"},
+        {"question": "What is method-level security in Spring?"},
+        {"question": "What is CSRF protection in Spring Security?"},
+        {"question": "How do you implement role-based access control in Spring?"},
+        {"question": "What is password encoding in Spring Security?"}
+      ]
+    }
+  ]
+}

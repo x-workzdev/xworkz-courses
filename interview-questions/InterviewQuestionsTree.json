@@ -1,0 +1,44 @@
+{
+  "Module": [
+    {
+      "name": "Core Java",
+      "url": "Core-Java.json"
+    },
+    {
+      "name": "Advanced Java", 
+      "url": "Advanced-Java.json"
+    },
+    {
+      "name": "Spring Framework",
+      "url": "Spring.json"
+    },
+    {
+      "name": "MySQL",
+      "url": "mysql.json"
+    },
+    {
+      "name": "Hibernate",
+      "url": "Hibernate.json"
+    },
+    {
+      "name": "JPA",
+      "url": "JPA.json"
+    },
+    {
+      "name": "Microservices",
+      "url": "Microservices.json"
+    },
+    {
+      "name": "JavaScript",
+      "url": "JavaScript.json"
+    },
+    {
+      "name": "React JS",
+      "url": "React.json"
+    },
+    {
+      "name": "HTML & CSS",
+      "url": "HTML-CSS.json"
+    }
+  ]
+}
