@@ -38,7 +38,7 @@
     {
       "id": 3,
       "title": "MySQL Database Management",
-      "icon": "mysql.png",
+      "icon": "mysql.png ",
       "description": "Learn database design, implementation and management with MySQL",
       "features": [
         "Database Design Principles",
