@@ -2,50 +2,50 @@
   "features": [
     {
       "id": 1,
-      "title": "Mock Interview Training",
-      "description": "Get real-time interview practice with industry experts to boost your confidence",
+      "title": "IT Industry Professionals Training",
+      "description": "Comprehensive training delivered by experienced IT working professionals with real-time industry exposure",
       "image": "https://raw.githubusercontent.com/xworkzodc/Gallery/master/images/56.jpeg"
     },
     {
       "id": 2,
-      "title": "Best Trainers",
-      "description": "Learn from experienced professionals who are passionate about teaching",
+      "title": "Regular Assignments & Projects",
+      "description": "Hands-on assignments and real-world projects to strengthen technical concepts and practical implementation",
       "image": "https://raw.githubusercontent.com/xworkzodc/Gallery/master/images/image17.jpeg"
     },
     {
       "id": 3,
-      "title": "Technical Skills",
-      "description": "Master cutting-edge technologies used in modern software development",
+      "title": "Technical Mock Interviews",
+      "description": "Industry-standard mock interviews with technical experts to prepare you for real job interviews",
       "image": "https://raw.githubusercontent.com/xworkzodc/Gallery/master/images/image20.jpg"
     },
     {
       "id": 4,
-      "title": "Learn Application Development",
-      "description": "Build real-world applications from concept to deployment",
+      "title": "Technical Presentations",
+      "description": "Regular presentation sessions to enhance communication skills and technical explanation abilities",
       "image": "https://raw.githubusercontent.com/xworkzodc/Gallery/master/images/image24.jpg"
     },
     {
       "id": 5,
       "title": "Guidance and Placements",
-      "description": "Comprehensive career support and placement assistance",
+      "description": "End-to-end career guidance, resume building, and placement assistance for IT roles",
       "image": "https://raw.githubusercontent.com/xworkzodc/Gallery/master/images/image29.jpeg"
     },
     {
       "id": 6,
-      "title": "Expert Mentors",
-      "description": "Get personalized guidance from industry veterans",
+      "title": "Extracurricular Technical Activities",
+      "description": "Hackathons, coding competitions, and tech workshops to enhance learning beyond curriculum",
       "image": "https://raw.githubusercontent.com/xworkzodc/Gallery/master/images/image31.jpg"
     },
     {
       "id": 7,
-      "title": "Career Guidance",
-      "description": "Strategic career planning and roadmap development",
+      "title": "Industry Mentor Sessions",
+      "description": "One-on-one mentorship sessions with IT industry experts for personalized career guidance",
       "image": "https://raw.githubusercontent.com/xworkzodc/Gallery/master/images/image32.jpg"
     },
     {
       "id": 8,
-      "title": "Industry Relevant Projects",
-      "description": "Work on projects that mirror real industry challenges",
+      "title": "Real-time Industry Projects",
+      "description": "Work on live projects that simulate actual IT industry scenarios and challenges",
       "image": "https://raw.githubusercontent.com/xworkzodc/Gallery/master/images/image33.jpg"
     }
   ]
