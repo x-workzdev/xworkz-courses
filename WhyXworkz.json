@@ -4,13 +4,13 @@
       "id": 1,
       "title": "Mock Interview Training",
       "description": "Get real-time interview practice with industry experts to boost your confidence",
-      "image": "https://raw.githubusercontent.com/xworkzodc/Gallery/master/images/56.jpeg"
+      "image": "https://raw.githubusercontent.com/x-workzdev/Xworkz-images/main/Gallery/tmi.jpg"
     },
     {
       "id": 2,
       "title": "Best Trainers",
       "description": "Learn from experienced professionals who are passionate about teaching",
-      "image": "https://raw.githubusercontent.com/xworkzodc/Gallery/master/images/image17.jpeg"
+      "image": "https://raw.githubusercontent.com/x-workzdev/Xworkz-images/main/Gallery/ITIndustryProfessionalsTraining.jpeg"
     },
     {
       "id": 3,
@@ -28,7 +28,7 @@
       "id": 5,
       "title": "Guidance and Placements",
       "description": "Comprehensive career support and placement assistance",
-      "image": "https://raw.githubusercontent.com/xworkzodc/Gallery/master/images/image29.jpeg"
+      "image": "https://raw.githubusercontent.com/x-workzdev/Xworkz-images/main/Gallery/GuidanceandPlacements.jpeg"
     },
     {
       "id": 6,
@@ -40,13 +40,13 @@
       "id": 7,
       "title": "Career Guidance",
       "description": "Strategic career planning and roadmap development",
-      "image": "https://raw.githubusercontent.com/xworkzodc/Gallery/master/images/image32.jpg"
+      "image": "https://raw.githubusercontent.com/x-workzdev/Xworkz-images/main/Gallery/hr.png"
     },
     {
       "id": 8,
       "title": "Industry Relevant Projects",
       "description": "Work on projects that mirror real industry challenges",
-      "image": "https://raw.githubusercontent.com/xworkzodc/Gallery/master/images/image33.jpg"
+      "image": "https://raw.githubusercontent.com/x-workzdev/Xworkz-images/main/Gallery/RealtimeIndustryProjects.jpeg"
     }
   ]
 }
