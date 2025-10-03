@@ -2,51 +2,45 @@
   "features": [
     {
       "id": 1,
-      "title": "Mock Interview Training",
-      "description": "Get real-time interview practice with industry experts to boost your confidence",
-      "image": "https://raw.githubusercontent.com/xworkzodc/Gallery/master/images/56.jpeg"
+      "title": "IT Industry Professionals Training",
+      "description": "Comprehensive training delivered by experienced IT working professionals with real-time industry exposure",
+      "image": "https://raw.githubusercontent.com/x-workzdev/Xworkz-images/develop/Gallery/38.jpeg"
     },
     {
       "id": 2,
-      "title": "Best Trainers",
-      "description": "Learn from experienced professionals who are passionate about teaching",
-      "image": "https://raw.githubusercontent.com/xworkzodc/Gallery/master/images/image17.jpeg"
+      "title": "Mock Interview Training",
+      "description": "Get real-time interview practice with industry experts to boost your confidence",
+      "image": "https://raw.githubusercontent.com/x-workzdev/Xworkz-images/develop/Gallery/tmi.jpg"
     },
     {
       "id": 3,
-      "title": "Technical Skills",
-      "description": "Master cutting-edge technologies used in modern software development",
-      "image": "https://raw.githubusercontent.com/xworkzodc/Gallery/master/images/image20.jpg"
+      "title": "Best Training",
+      "description": "Learn from experienced professionals who are passionate about teaching",
+      "image": "https://raw.githubusercontent.com/x-workzdev/Xworkz-images/develop/Gallery/45.jpeg"
     },
     {
       "id": 4,
-      "title": "Learn Application Development",
-      "description": "Build real-world applications from concept to deployment",
-      "image": "https://raw.githubusercontent.com/xworkzodc/Gallery/master/images/image24.jpg"
+      "title": "Technical Skills",
+      "description": "Master cutting-edge technologies used in modern software development",
+      "image": "https://raw.githubusercontent.com/x-workzdev/Xworkz-images/develop/Gallery/37.jpeg"
     },
     {
       "id": 5,
-      "title": "Guidance and Placements",
-      "description": "Comprehensive career support and placement assistance",
-      "image": "https://raw.githubusercontent.com/xworkzodc/Gallery/master/images/image29.jpeg"
+      "title": "Expert Mentors",
+      "description": "Get personalized guidance from industry veterans",
+      "image": "https://raw.githubusercontent.com/x-workzdev/Xworkz-images/develop/Gallery/63.jpeg"
     },
     {
       "id": 6,
-      "title": "Expert Mentors",
-      "description": "Get personalized guidance from industry veterans",
-      "image": "https://raw.githubusercontent.com/xworkzodc/Gallery/master/images/image31.jpg"
+      "title": "Career Guidance",
+      "description": "Strategic career planning and roadmap development",
+      "image": "https://raw.githubusercontent.com/x-workzdev/Xworkz-images/develop/Gallery/hr.png"
     },
     {
       "id": 7,
-      "title": "Career Guidance",
-      "description": "Strategic career planning and roadmap development",
-      "image": "https://raw.githubusercontent.com/xworkzodc/Gallery/master/images/image32.jpg"
-    },
-    {
-      "id": 8,
-      "title": "Industry Relevant Projects",
-      "description": "Work on projects that mirror real industry challenges",
-      "image": "https://raw.githubusercontent.com/xworkzodc/Gallery/master/images/image33.jpg"
+      "title": "Extracurricular Activities",
+      "description": "GB quizzes, games, and fun activities to enhance learning experience beyond technical curriculum",
+      "image": "https://raw.githubusercontent.com/x-workzdev/Xworkz-images/develop/Gallery/84.jpg"
     }
   ]
 }
